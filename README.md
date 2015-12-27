@@ -1,3 +1,3 @@
 # project
 
-This is a test repo for experimaneting with Git version control.
+This is a test repo for experimenting with Git version control.
