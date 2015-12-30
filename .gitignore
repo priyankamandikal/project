@@ -1,2 +1,5 @@
-# ignore
+# ignore folder
 ignore
+
+# ignore file
+./ignoredfile.txt
